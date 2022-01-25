@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chaman Jain
 - 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning ds
+- 🌱 I’m currently learning Data structure, java's new feature and many more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chamanjain199@gmail.com 7415316516
 
